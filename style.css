@@ -6,6 +6,10 @@
 
 }
 
+.container{
+   overflow: hidden;
+}
+
 /* navbar */
 
 ul {
